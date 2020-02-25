@@ -7,4 +7,7 @@ tags:
   - testing
 ---
 ### Goal
+
 Testing addition of new blog post using netlify cms.
+
+This post is edited using netlify cms.
